@@ -34,7 +34,7 @@
     실험이 기록되어 있는지 확인
     - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
     - 피드백: 다양한 매개변수를 이용해 함수를 구현
-![image](https://github.com/K-Bbang/soomin/assets/149548972/878edfc0-6051-43a1-a318-fce1783eb50e)
+    - ![image](https://github.com/K-Bbang/soomin/assets/149548972/878edfc0-6051-43a1-a318-fce1783eb50e)
 
 
    
