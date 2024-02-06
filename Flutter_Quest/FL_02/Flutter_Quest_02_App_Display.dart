@@ -138,6 +138,9 @@ class MyApp extends StatelessWidget {
                   print("버튼이 눌렸습니다.");
                 },
                 child: Text('Text'),
+                style: ElevatedButton.styleFrom(
+                primary: Colors.orange, // 주황색으로 버튼의 배경색을 설정해보기
+                ),
               ),
             ),
             Positioned(
