@@ -124,7 +124,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // AppBar 좌측 상단에 아이콘 삽입
         appBar: AppBar(
-          leading: Image.asset('images/icon/user.png'), // 이미지 경로 설정
+          leading: Icon(Icons.wb_cloudy), // 아이콘 추가
           title: Text('플러터 앱 만들기'), // AppBar 중앙에 텍스트 추가
         ),
         body: Stack(
