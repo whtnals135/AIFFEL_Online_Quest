@@ -104,6 +104,13 @@
 
 // =========== Container가 버튼을 덮어서 아래와 같이 위치를 조정하였다. =============
 
+
+
+
+
+
+
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -170,3 +177,11 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//  회고
+// -Keep
+//   플러터 교재 및 구글링을 열심히 하였다.
+// -Problem
+//   완전하게 이해가 된 상태로 코드를 작성하지 못하였다.
+// -Try
+//   계속 의지를 가지고 도전해보자! :)
