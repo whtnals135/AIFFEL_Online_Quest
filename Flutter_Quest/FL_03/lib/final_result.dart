@@ -106,3 +106,11 @@ class SecondScreen extends StatelessWidget {
     );
   }
 }
+
+// 회고
+// - Keep
+//    교재와 구글링을 열심히 해보았다.
+// - Problem
+//    무엇이 문제인지 파악하는데에 많은 시간을 소비하였다..
+// - Try
+//    그래도 계속 시도해보자.
