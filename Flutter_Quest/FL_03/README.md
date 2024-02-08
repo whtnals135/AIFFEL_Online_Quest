@@ -2,6 +2,15 @@
 
 - 코더 : 조수민
 - 리뷰어 : 김민기
+  
+## 파일구성  
+
+앱 구현 이미지  
+
+![play1](https://github.com/whtnals135/AIFFEL_Online_Quest/assets/149548856/d56fa972-faab-4ab2-89e9-b9dc7cbee100)  
+
+![play2](https://github.com/whtnals135/AIFFEL_Online_Quest/assets/149548856/11034f3b-da34-49d0-a62c-fada7ede3019)  
+
 
 
 🔑 **PRT(Peer Review Template)**
@@ -14,6 +23,8 @@
     - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
     - 피드백: 텍스트 버턴, 스택, 아이콘 등 요구 사항 코드로 구현 실시
         - Debug console을 찍는 것 외에 기능구현에 문제가 없었다.
+
+
   
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -30,6 +41,8 @@
 
 
 
+
+
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
@@ -43,6 +56,8 @@
 
     ![image](https://github.com/NeatyNut/sumin/assets/89675001/2af9ae44-ec8d-47b9-8272-e8260d6985dd)
 
+
+
    
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -54,6 +69,8 @@
     - 피드백: 코딩 과정의 경험을 회고로 잘 작성
 
      ![image](https://github.com/NeatyNut/sumin/assets/89675001/e85021d6-ee1d-4589-ab28-9b8af382ec97)
+
+
 
 
 - [x]  **5. 코드가 간결하고 효율적인가요?**
