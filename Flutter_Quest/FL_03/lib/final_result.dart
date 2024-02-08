@@ -72,7 +72,9 @@ class SecondScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         leading: Icon(Icons.favorite),
-        title: Text('Second Page'),
+        title: Center( // 중앙 정렬
+        child: Text('Second Page'),
+        ),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
