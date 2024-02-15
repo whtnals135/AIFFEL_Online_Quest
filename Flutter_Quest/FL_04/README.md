@@ -7,7 +7,9 @@
 
 앱 구현 이미지    
 
- 
+
+![image](https://github.com/whtnals135/AIFFEL_Online_Quest/assets/149548856/81ef2418-5caa-46f5-bc5c-d7881c7533dc)
+
 ![image](https://github.com/whtnals135/AIFFEL_Online_Quest/assets/149548856/0623d0bb-bf27-4a7d-bc09-fd9fd140dd7e)  
 
 ![image](https://github.com/whtnals135/AIFFEL_Online_Quest/assets/149548856/b2ffaa82-99e6-49f1-81c1-21a9216c420a)  
