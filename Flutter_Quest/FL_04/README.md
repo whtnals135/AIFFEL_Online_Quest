@@ -16,7 +16,13 @@
 
 
 - 생성 api주소   
-https://c297-34-168-254-218.ngrok-free.app/sample
+https://c297-34-168-254-218.ngrok-free.app/sample  
+
+
+
+
+- Github Pages
+  https://whtnals135.github.io/fastapi_jellyfish/  
 
 
 
